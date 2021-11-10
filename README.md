@@ -1,5 +1,4 @@
-Objective
-The main objective of this project is develop a CNN algorithm that differentiates between the different 196 classes using Tensorflow. Some examples of the classes are:
+The main objective of this project is develop a CNN algorithm that differentiates between the different 196 classes using employing Tensorflow and using the standford cars 196 dataset. Some examples of the classes are:
 
     'Audi TT Hatchback 2011', 
     'Audi S6 Sedan 2011'
